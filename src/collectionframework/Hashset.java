@@ -10,7 +10,7 @@ public class Hashset {
 		s.add(23);
 		s.add(44);
 		s.add(24);
-		s.add(41);
+		s.add(42);
 		System.out.println(s);
 		
 		
